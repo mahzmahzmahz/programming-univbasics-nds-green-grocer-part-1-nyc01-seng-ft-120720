@@ -24,6 +24,7 @@ def consolidate_cart(cart)
     item = find_item_by_name_in_collection(cart[counter][:item], shopping_cart)
       if item != nil 
         
+        
     
     
     end
