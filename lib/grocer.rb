@@ -20,9 +20,10 @@ def consolidate_cart(cart)
   
   shopping_cart = []
   counter = 0 
-  while counter < cart.length
-  
-  end
+    while counter < cart.length
+    
+    
+    end
   counter +=1
     
  end
