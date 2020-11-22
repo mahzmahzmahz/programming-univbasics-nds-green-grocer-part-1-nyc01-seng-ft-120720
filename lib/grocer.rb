@@ -33,10 +33,11 @@ def consolidate_cart(cart)
         }
         shopping_cart.push(item)
       end
-    end
   counter +=1
-    
+   end
+   shopping_cart
  end
+ 
 
 
   
