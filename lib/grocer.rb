@@ -21,7 +21,7 @@ def consolidate_cart(cart)
   shopping_cart = []
   counter = 0 
     while counter < cart.length
-    item = find_item_by_name_in_collection(name, shopping_cart)
+    item = find_item_by_name_in_collection(cart[counter], shopping_cart)
     
     end
   counter +=1
